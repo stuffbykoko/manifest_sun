@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- kernel and friends-->
+  <project path="kernel/oneplus/sm8650" name="stuffbykoko/android_kernel_oneplus_sm8650" remote="github" revision="lineage-23.0" />
+  <project path="kernel/oneplus/sm8650-modules" name="stuffbykoko/android_kernel_oneplus_sm8650-modules" remote="github" revision="lineage-23.0" />
+  <project path="kernel/oneplus/sm8650-devicetrees" name="stuffbykoko/android_kernel_oneplus_sm8650-devicetrees" remote="github" revision="lineage-23.0" />
+
+  <!-- main-->
+  <project path="device/oneplus/avalon" name="stuffbykoko/android_device_oneplus_avalon" remote="github" revision="varuna" />
+  <project path="device/oneplus/waffle" name="stuffbykoko/android_device_oneplus_waffle" remote="github" revision="varuna" />
+
+  <project path="device/oneplus/sm8650-common" name="stuffbykoko/android_device_oneplus_sm8650-common" remote="github" revision="varuna" />
+  <project path="hardware/oplus" name="stuffbykoko/android_hardware_oplus" remote="github" revision="varuna" />
+
+  <!-- project path="vendor/oneplus/avalon" name="stuffbykoko/proprietary_vendor_oneplus_avalon" remote="github" revision="varuna"  -->
+  <project path="vendor/oneplus/sm8650-common" name="stuffbykoko/proprietary_vendor_oneplus_sm8650-common" remote="github" revision="varuna"  />
+
+  <!-- ConsumerIR -->
+  <project path="vendor/ConsumerIRApp" name="stuffbykoko/vendor_ConsumerIRApp" revision="main" remote="github" />
+
+</manifest>

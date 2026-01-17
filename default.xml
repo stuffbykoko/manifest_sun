@@ -18,4 +18,6 @@
   <include name="snippets/aosp.xml" />
   <!-- LineageOS -->
   <include name="snippets/lineage.xml" />
+  <!-- stuffbykoko -->
+  <include name="snippets/custom.xml" />
 </manifest>

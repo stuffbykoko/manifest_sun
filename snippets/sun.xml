@@ -222,7 +222,7 @@
   <project path="vendor/google/pixel" name="SunOS-Project/proprietary_vendor_google_pixel" remote="sun" clone-depth="1"  />
   <project path="vendor/google/extras" name="SunOS-Project/proprietary_vendor_google_extras" remote="sun" clone-depth="1"  />
   <project path="vendor/configs" name="SunOS-Project/android_vendor_configs" remote="sun" />
-  <project path="vendor/sun" name="SunOS-Project/android_vendor_sun" remote="sun" />
+  <project path="vendor/sun" name="stuffbykoko/android_vendor_sun" remote="sun" />
 
   <!-- Vendor qcom -->
   <remove-project name="platform/vendor/codeaurora/telephony" />
